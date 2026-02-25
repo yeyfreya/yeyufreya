@@ -15,6 +15,10 @@ Applied AI systems Engineer building intelligent systems that bridge strategy an
 ## 📌 Featured Projects
 Check out my pinned repositories below ⬇️
 
+AI Agent Compliance Gap Analyzer: https://github.com/yeyfreya/compliance-gap-analyzer
+Responsible AI Transparency Report Tool - RADARs: https://github.com/yeyfreya/Transparency-Report-V1
+Real-time Speech Emotion Recognition App - VoiceVibe: https://github.com/yeyfreya/Techin510-Final-VoiceVibe
+
 ## 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/yeyufreya/)
 - 🌐 [Portfolio](https://www.yeyufreya.com/)
